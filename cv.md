@@ -25,3 +25,13 @@ Hi. I am a former accountant, have spent a lot of time in this activity and have
 - [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 ---
+
+### Education
+
+**Belarusian State University**
+Faculty of History
+Years: 2010- 2015
+Specialization: Documentation (document management)
+
+---
+### English  - A2
